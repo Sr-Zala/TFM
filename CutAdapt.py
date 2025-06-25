@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-#Script automatizado de preprocesamiento FASTQ con Cutadapt.
+#Script automatizado de preprocesamiento con Cutadapt.
 
 
 import subprocess
